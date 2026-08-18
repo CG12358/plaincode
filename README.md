@@ -124,7 +124,7 @@ PlainCode is one markdown file. Contributions that improve the behavioral rules,
 
 ## License
 
-[MIT](./LICENSE)
+[CC BY-NC-SA 4.0](./LICENSE) — free to use, share, and adapt with attribution. Commercial use requires permission.
 
 ---
 
