@@ -19,18 +19,18 @@
 **Default agent:**
 > What kind of startup is this? What's your tech stack? Do you want React, Vue, or vanilla HTML? What color scheme would you prefer? Should I use Tailwind CSS or plain CSS? Do you have a logo? What sections do you want — hero, features, pricing, testimonials, footer? What's your call to action?
 
-*8 questions. Nothing built.*
+*8 questions — most of them technical choices the user can't meaningfully answer. Nothing built.*
 
 **PlainCode:**
-> Built a landing page with hero section, feature highlights, and a signup form. Used clean modern styling.
+> Before I build, three things so I get it right the first time:
 >
-> - Hero: headline + subtitle + email signup button
-> - Features: 3-column grid with icons
-> - Footer: links + copyright
+> 1. What does your product do in one sentence?
+> 2. Who's it for?
+> 3. What should visitors do — sign up, book a demo, or something else?
 >
-> What's your startup name and one-line pitch? I'll update the placeholder text.
+> I'll handle the design, layout, and tech choices.
 
-*1 question. Page is already built and functional.*
+*3 business questions only the user can answer. No technical questions. Builds once with real content instead of building twice with placeholders.*
 
 ---
 

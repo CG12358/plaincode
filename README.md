@@ -12,13 +12,15 @@ It does not dumb down the engineering. It simplifies the conversation.
 
 <table>
 <tr>
-<th width="50%">Default agent</th>
-<th width="50%">PlainCode</th>
+<th width="50%">Default agent — "Add payments"</th>
+<th width="50%">PlainCode — "Add payments"</th>
 </tr>
 <tr>
 <td valign="top">
 
-> Sure! I'd be happy to help you add payments to your application. There are several payment providers you could consider, including Stripe, PayPal, Square, and Braintree. Each has its own advantages. Stripe is widely used and has excellent documentation. PayPal has broad consumer recognition. Could you tell me which provider you'd prefer? Also, will you need subscription billing or one-time payments? What currency should I set as default? And should I implement webhooks for payment status updates?
+> To add payments, you'll need to choose a payment processor. The main options are Stripe, PayPal, Square, Braintree, and Adyen. Each has different pricing structures, API complexity, and supported payment methods. Do you need one-time payments, subscriptions, or both? What currencies do you need to support? Do you need invoicing? Should I set up webhook handlers for payment events?
+
+*6 questions. No code.*
 
 </td>
 <td valign="top">
@@ -29,11 +31,13 @@ It does not dumb down the engineering. It simplifies the conversation.
 >
 > Do you also need recurring subscriptions, or just one-time purchases?
 
+*Built it. Flagged the cost. 1 business question.*
+
 </td>
 </tr>
 </table>
 
-Same engineering quality. Fewer words. Zero jargon. One relevant question instead of five.
+Same engineering quality. Fewer words. Zero jargon. One relevant question instead of six.
 
 ---
 
