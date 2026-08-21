@@ -124,7 +124,9 @@ PlainCode is one markdown file. Contributions that improve the behavioral rules,
 
 ## License
 
-[CC BY-NC-SA 4.0](./LICENSE) — free to use, share, and adapt with attribution. Commercial use requires permission.
+[AGPL-3.0](./LICENSE) — free to use, modify, and share. If you run a modified version as a service, you must share your source code. Commercial licensing available — contact the repository owner.
+
+By contributing, you agree to the [Contributor License Agreement](./CLA.md).
 
 ---
 
